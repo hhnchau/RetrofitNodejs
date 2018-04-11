@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/appro/bk/RetrofitNodejs/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/appro/bk/RetrofitNodejs/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

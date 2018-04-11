@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

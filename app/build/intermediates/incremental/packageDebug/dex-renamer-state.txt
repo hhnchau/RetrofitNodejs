@@ -1,0 +1,4 @@
+#Wed Apr 11 16:12:06 ICT 2018
+base.0=/home/appro/bk/RetrofitNodejs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/appro/bk/RetrofitNodejs/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

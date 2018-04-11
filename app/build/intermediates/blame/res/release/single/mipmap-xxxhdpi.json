@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Library\\RetrofitNodejs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Library\\RetrofitNodejs\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

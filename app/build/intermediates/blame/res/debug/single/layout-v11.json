@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/D:\\Library\\RetrofitNodejs\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/appro/bk/RetrofitNodejs/C:\\Users\\Chau Huynh\\.android\\build-cache\\982f65e0d9c26322f48b458ba5e08123bba175ab\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/appro/bk/RetrofitNodejs/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/appro/.android/build-cache/c0842783e62be3a49313f368c9f3816e50acf36f/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]
