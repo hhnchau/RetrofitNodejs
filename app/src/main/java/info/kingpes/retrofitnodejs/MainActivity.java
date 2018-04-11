@@ -68,6 +68,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         findViewById(R.id.get).setOnClickListener(this);
         findViewById(R.id.post).setOnClickListener(this);
+        findViewById(R.id.put).setOnClickListener(this);
+        findViewById(R.id.delete).setOnClickListener(this);
 
     }
 
@@ -75,29 +77,26 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         if (v.getId() == R.id.get) {
             Map<String, Object> params = new HashMap<>();
-            params.put("id", 1);
+            params.put("ten", "chau");
+            params.put("ho", "huynh");
 
-            serviceApi.demoGet(params, "1", "2", "3").enqueue(new Callback<List<User>>() {
+            serviceApi.demoGet(params, "1", "2", "3").enqueue(new Callback<User>() {
                 @Override
-                public void onResponse(Call<List<User>> call, retrofit2.Response<List<User>> response) {
+                public void onResponse(Call<User> call, retrofit2.Response<User> response) {
 
 
-                    List<User> u = response.body();
+                    User u = response.body();
                     if (u != null) {
-                        Toast.makeText(MainActivity.this, u.get(0).getTen(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, u.getTen(), Toast.LENGTH_SHORT).show();
                     }
                 }
 
                 @Override
-                public void onFailure(Call<List<User>> call, Throwable t) {
+                public void onFailure(Call<User> call, Throwable t) {
                     Toast.makeText(MainActivity.this, "FAIL", Toast.LENGTH_SHORT).show();
                 }
             });
-        } else {
-
-            Map<String, Object> params = new HashMap<>();
-            params.put("ho", "Chau123Bao");
-            params.put("ten", "Chau123Bao");
+        } else if (v.getId() == R.id.post) {
 
             Person p = new Person();
             p.setHo("Huynh");
@@ -119,6 +118,49 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
             });
 
+        } else if (v.getId() == R.id.put) {
+
+            Person p = new Person();
+            p.setHo("Huynh");
+            p.setTen("Bao");
+
+            serviceApi.demoPut(p, "1", "2", "3").enqueue(new Callback<User>() {
+                @Override
+                public void onResponse(Call<User> call, Response<User> response) {
+                    if (response != null) {
+                        User u = response.body();
+                        if (u != null)
+                            Toast.makeText(MainActivity.this, u.getTen() + u.getTuoi(), Toast.LENGTH_SHORT).show();
+                    }
+                }
+
+                @Override
+                public void onFailure(Call<User> call, Throwable t) {
+
+                }
+            });
+
+        } else if (v.getId() == R.id.delete) {
+            Map<String, Object> params = new HashMap<>();
+            params.put("ten", "chau");
+            params.put("ho", "huynh");
+
+            serviceApi.demoDelete(params, "1").enqueue(new Callback<User>() {
+                @Override
+                public void onResponse(Call<User> call, retrofit2.Response<User> response) {
+
+
+                    User u = response.body();
+                    if (u != null) {
+                        Toast.makeText(MainActivity.this, u.getTen(), Toast.LENGTH_SHORT).show();
+                    }
+                }
+
+                @Override
+                public void onFailure(Call<User> call, Throwable t) {
+                    Toast.makeText(MainActivity.this, "FAIL", Toast.LENGTH_SHORT).show();
+                }
+            });
         }
     }
 }
